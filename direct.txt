@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,oaifree.com
+DOMAIN-SUFFIX,alphatvapp.top
+DOMAIN-SUFFIX,awatv.de
