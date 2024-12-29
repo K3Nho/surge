@@ -1,2 +1,1 @@
 DOMAIN-SUFFIX,alphatvapp.top
-DOMAIN-SUFFIX,emby.wtf
